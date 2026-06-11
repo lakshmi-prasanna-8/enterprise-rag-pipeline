@@ -5,6 +5,8 @@ This is the single entry point for query execution.
 
 from __future__ import annotations
 
+from dotenv import load_dotenv
+load_dotenv()
 import logging
 import os
 from dataclasses import dataclass

@@ -1,0 +1,1 @@
+"Enterprise RAG pipelines use vector search to retrieve relevant documents before generating answers with an LLM." 
