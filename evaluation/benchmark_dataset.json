@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the standard maintenance interval for aircraft hydraulic systems?",
+    "ground_truth": "Hydraulic systems require inspection every 500 flight hours and full replacement every 3000 hours or per manufacturer specification."
+  },
+  {
+    "question": "What documents are required for prior authorization of an MRI procedure?",
+    "ground_truth": "Prior authorization for MRI requires a physician referral, clinical notes supporting medical necessity, and insurance member ID."
+  },
+  {
+    "question": "What is the AML reporting threshold for suspicious transactions?",
+    "ground_truth": "Transactions exceeding $10,000 must be reported via a Currency Transaction Report (CTR). Suspicious activity regardless of amount requires a SAR filing."
+  },
+  {
+    "question": "How are flight delay compensation policies applied to connecting flights?",
+    "ground_truth": "Passengers on connecting flights receive compensation if the delay exceeds 3 hours at the final destination due to airline-controlled causes."
+  },
+  {
+    "question": "What are the HIPAA requirements for sharing patient data with third parties?",
+    "ground_truth": "HIPAA requires a Business Associate Agreement (BAA) before sharing protected health information with any third-party vendor or partner."
+  }
+]
